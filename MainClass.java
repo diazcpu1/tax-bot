@@ -7,9 +7,6 @@ import java.util.Scanner;
  * Author: Axel Diaz
  * The app is able to take a price from user input and tell the user their tax and final price
  * Last updated: 07/12/17 at 8:47 PM
- * Ideas for improvements: 1) Create methods to find tax and final price
- *                         2) Throw an exception if user input isn't a number 
- *                         3) Round user input to the nearest hundredth (DONE)
 */
 
 public class MainClass {
